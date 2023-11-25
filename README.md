@@ -11,8 +11,7 @@
 
 <!--- miku -->
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="25229142" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/hatsune-miku-miku-colorful-miku-colorful-anime-anime-gif-25229142"><a href="https://tenor.com/search/hatsune+miku-gifs">Hatsune Miku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-       alt="miku" /></a>
+  <img src="https://tenor.com/es/view/hatsune-miku-miku-colorful-miku-colorful-anime-anime-gif-25229142">
 </div>
 
 
