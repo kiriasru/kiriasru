@@ -11,7 +11,7 @@
 
 <!--- miku -->
 <div align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/323/715/f18.gif" alt="Hatsune Miku">
+  <img src="https://i.pinimg.com/originals/e7/37/04/e7370483c8991773b3c9c8e5cb658479.jpg" alt="Hatsune Miku">
 </div>
 
 
