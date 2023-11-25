@@ -11,7 +11,7 @@
 
 <!--- miku -->
 <div align="center">
-  <img src="https://media.tenor.com/uOkZJGLAF_QAAAAd/hatsune-miku-miku.gif" alt="Hatsune Miku">
+  ![Hatsune Miku](https://media.tenor.com/uOkZJGLAF_QAAAAd/hatsune-miku-miku.gif)
 </div>
 
 
