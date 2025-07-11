@@ -25,9 +25,9 @@
 <!--Intro start-->
 - 🎹 I’m fond of **music**
   
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Node.JS**
 
-- 🌱 I’m currently learning **to use React Hooks**
+- 🌱 I’m currently learning **backend**
 
 - 📫 Feel free to reach me out **kiriasru@gmail.com**
   
