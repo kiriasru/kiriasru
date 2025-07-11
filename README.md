@@ -11,7 +11,7 @@
 
 <!--- miku -->
 <div align="center">
-  <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Hatsune Miku">
+  <img src="https://www.jadeglobal.com/sites/default/files/2022-09/9-ways-to-improve-UI-in-Web-Development.jpg" alt="Hatsune Miku">
 </div>
 
 
