@@ -11,7 +11,7 @@
 
 <!--- miku -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e7/37/04/e7370483c8991773b3c9c8e5cb658479.jpg" alt="Hatsune Miku">
+  <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Hatsune Miku">
 </div>
 
 
