@@ -82,12 +82,12 @@
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
          alt="nodejs" width="40" height="40" title="Node.js" />
   </a>
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
          alt="express" width="40" height="40" title="Express" />
   </a>
 
