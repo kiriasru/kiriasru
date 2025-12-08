@@ -104,15 +104,15 @@
 
 ---
 
-<!-- GitHub Stats (fixed) -->
 <div align="center">
 
   <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiriasru&layout=compact&theme=default&cache_seconds=1800&v=1" />
+  <img src="https://github-readme-stats-fast-eta.vercel.app/api/top-langs/?username=kiriasru&layout=compact&theme=default" />
 
   <br/><br/>
 
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kiriasru&show_icons=true&theme=default&cache_seconds=1800&v=1" />
+  <img src="https://github-readme-stats-fast-eta.vercel.app/api?username=kiriasru&show_icons=true&theme=default" />
 
 </div>
+
