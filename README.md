@@ -104,19 +104,3 @@
 
 ---
 
-<div align="center">
-
-  <!-- Badges -->
-  <p>
-    ![Repos](https://img.shields.io/github/repos/kimmy123/kiriasru?style=for-the-badge)
-    ![Followers](https://img.shields.io/github/followers/kiriasru?style=for-the-badge)
-    ![Stars](https://img.shields.io/github/stars/kiriasru?style=for-the-badge)
-  </p>
-
-  <br/>
-
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=kiriasru&theme=react-dark&hide_title=true" />
-
-</div>
-
