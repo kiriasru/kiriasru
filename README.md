@@ -33,11 +33,32 @@
   <img src="https://komarev.com/ghpvc/?username=kiriasru&label=Profile%20views&color=0e75b6&style=flat" alt="kiriasru" />
 </p>
 
-<!-- Trophy -->
+<!-- GitHub Stats -->
+<h2 align="left">📊 GitHub Stats</h2>
+
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kiriasru" alt="kiriasru" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kiriasru&show_icons=true&theme=radical&hide_border=false"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- Most Used Languages -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiriasru&layout=compact&theme=radical&hide_border=false"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- GitHub Trophies -->
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<p align="left">
+  <img
+    src="https://github-trophies.vercel.app/?username=kiriasru&theme=onedark&no-frame=false&no-bg=false&margin-w=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <!--Connect with me-->
