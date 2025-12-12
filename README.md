@@ -34,7 +34,11 @@
 </p>
 
 <!-- Trophy -->
-![PokeCard](https://pokecard.vercel.app/api?username=kiriasru)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kiriasru" alt="kiriasru" />
+  </a>
+</p>
 
 <!--Connect with me-->
 <h3 align="left">Connect with me:</h3>
