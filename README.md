@@ -38,7 +38,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kiriasru&show_icons=true&theme=onedark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=kiriasru&show_icons=true&theme=radical&hide_border=false"
     alt="GitHub Stats"
   />
 </p>
@@ -46,7 +46,7 @@
 <!-- Most Used Languages -->
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiriasru&layout=compact&theme=onedark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiriasru&layout=compact&theme=radical&hide_border=false"
     alt="Top Languages"
   />
 </p>
