@@ -22,8 +22,8 @@
 
 <!--Intro start-->
 - 🎹 I’m fond of **music**
-- 🔭 I’m currently working on **Node.JS**
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on **Next JS**
+- 🌱 I’m currently learning **Cybersecurity**
 - 📫 Feel free to reach me out **kiriasru@gmail.com**
 - ⚡ Fun fact about me: I'm a Hatsune Miku fan!
 <!--Intro end-->
